@@ -8,8 +8,7 @@
 </head>
 <body>
 <h1>
-	성혁 생성 - ysh.jsp test2 - 성혁 충돌테스트로 추가하는 내용
-	
+	성혁 생성 - ysh2.jsp test2
 </h1>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
