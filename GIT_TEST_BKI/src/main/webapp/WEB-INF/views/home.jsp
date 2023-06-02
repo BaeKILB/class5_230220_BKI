@@ -8,10 +8,8 @@
 </head>
 <body>
 <h1>
-	Hello world!
-	태그 내용 변경  
+	재변경
 </h1>
-revent 후 변경
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
