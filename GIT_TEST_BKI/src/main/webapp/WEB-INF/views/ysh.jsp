@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	재변경 노용석
+	성혁 생성 - ysh.jsp
 </h1>
 <P>  The time on the server is ${serverTime}. </P>
 </body>
